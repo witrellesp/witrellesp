@@ -55,12 +55,6 @@ Currently working on:
 
 ---
 
-## GitHub Stats
-
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=witrellesp&show_icons=true)
-
----
-
 ## Contact
 
 - 💼 LinkedIn: www.linkedin.com/in/william-trelles-0606a6267
