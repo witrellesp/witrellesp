@@ -57,7 +57,7 @@ Currently working on:
 
 ## Contact
 
-- 💼 LinkedIn: www.linkedin.com/in/william-trelles-0606a6267
+- 💼 LinkedIn: www.linkedin.com/in/william-trelles
 - 📍 Switzerland
 - 📧 william.trelles1@eduvaud.ch
 
